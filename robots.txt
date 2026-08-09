@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-nc8cl1.goib138.site/sitemap.xml
